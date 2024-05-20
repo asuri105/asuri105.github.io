@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2024 DREU Project Site
 ---
 
 * TOC
@@ -8,7 +8,7 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Arunima Suri, and I am a rising sophomore at University of Illinois Urbana-Champaign. I plan on graduating in May of 2024 with a dual degree in Computer Science and Education. My main research interets revolve around Education Technology and Computer Science Education. My email address is arunima@suri.org.  
 
 ## About My Mentor
 
