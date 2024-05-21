@@ -12,7 +12,7 @@ My name is Arunima Suri, and I am a rising sophomore at University of Illinois U
 
 ## About My Mentor
 
-Mentor info goes here.
+[Dr. Susan H. Rodger](https://scholars.duke.edu/person/rodger) is the Director of Undergraduate Studies in the Department of Computer Science and a Professor of the Practice of Computer Science in the Trinity College of Arts & Sciences at Duke Univeristy. Her area of research focuses in Computer Science education, and she has many external relationships surrounding this field, including the Computing Research Association, Coursera, IBM, and ACM SIGCSE. A more comprehensive list of her current work can be found [here](https://users.cs.duke.edu/~rodger/). 
 
 ## About My Project
 
