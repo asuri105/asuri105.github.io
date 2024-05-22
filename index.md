@@ -16,7 +16,7 @@ My name is Arunima Suri, and I am a rising sophomore at University of Illinois U
 
 ## About My Project
 
-Project description goes here.
+My research project this summer focuses on creating autograders for open-ended assigments for an introductory python course on Coursera. Part of this work includes doing an extensive literature review on autograders and open-ended assignments to understand what types of systems already exist; however, open-ended assignments in general are known to be a new concept in computer science eductaion. In terms of the autograders itself, they are written in python, using the testing framework, pytest, for supplametary functionality. Concurrent with thsi work, I am also taking an introductory research course, UR2PhD, to help strengthen my understanding of the research process. 
 
 [My Final Report](files/finalreport.pdf)
 
